@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @OfficialDark
+- 👀 I’m interested in Javascript, Online DAWs, and Minecraft.
+- 🌱 I’m currently learning - Javascript.
+- 💞️ I’m looking to collaborate on - An online DAW like BandLab.
+- 📫 How to reach me - Email: djdark.beats@outlook.com
